@@ -1,1 +1,2 @@
-# giphy-web
+# Made with create-react-app
+# run *npm start*
